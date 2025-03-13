@@ -1,1 +1,4 @@
-<p>Milestone-Project-Building Description<p></p>
+<div style="text-align: left;">
+ Milestone-Project-Building.
+</div>
+
